@@ -1,0 +1,50 @@
+{
+  "site": "humanoidfoundationmodels.com",
+  "topic": "humanoid foundation models: world models, VLAs, robot brains, embodied AI research, model releases, training data, simulation, compute",
+  "items": [
+    {
+      "iso": "2026-07-19",
+      "chip": "Training",
+      "art": "dark",
+      "artTitle": "The teleop trap",
+      "title": "Flexion's CEO warns robotics is stuck in the teleoperation trap",
+      "summary": "Teleop datasets are over 100,000 times smaller than what trains today's language models, Nikita Rudin argues — and reinforcement learning, not an endless stream of human demonstrations, is the way out.",
+      "source": "The Robot Report",
+      "date": "19 Jul 2026",
+      "url": "https://www.therobotreport.com/how-to-avoid-teleoperation-trap-robotics-development/"
+    },
+    {
+      "iso": "2026-07-17",
+      "chip": "Model Release",
+      "image": "https://humanoid.guide/wp-content/uploads/2026/07/Lim.jpg",
+      "credit": "Image © LimX Dynamics",
+      "title": "LimX unveils COSA 0.5 — and Oli runs household chores with no teleop",
+      "summary": "The freshly funded Shenzhen maker's three-layer 'agentic OS' pairs a world model and closed-loop reasoning with VLA skills — enough, according to LimX, for China's first fully autonomous long-horizon home run by a full-size humanoid.",
+      "source": "humanoid.guide",
+      "date": "17 Jul 2026",
+      "url": "https://humanoid.guide/limx-dynamics-200m-pre-ipo-cosa-0-5/?utm_source=microsite&utm_medium=referral&utm_campaign=fo2026&utm_content=briefing"
+    },
+    {
+      "iso": "2026-07-07",
+      "chip": "Physical AI",
+      "image": "https://humanoid.guide/wp-content/uploads/2026/07/jim_fan.jpg",
+      "credit": "Image © Humanoid Guide",
+      "title": "Jim Fan: 'Robotics right now is like LLMs in 2020'",
+      "summary": "NVIDIA's AI director told RAISE Week in Paris that humanoid prices have fallen 98% in two decades and open GR00T downloads have passed 10 million, according to Fan — with 'world action models' that predict future frames as the next paradigm.",
+      "source": "humanoid.guide",
+      "date": "7 Jul 2026",
+      "url": "https://humanoid.guide/jim-fan-physical-ai-2/?utm_source=microsite&utm_medium=referral&utm_campaign=fo2026&utm_content=briefing"
+    },
+    {
+      "iso": "2026-06-04",
+      "chip": "World Models",
+      "image": "https://cdn.sanity.io/images/qka6yvsc/production/6aca2147f23302f727455205c817c7a80fb196e7-1650x953.jpg",
+      "credit": "Image © 1X Technologies",
+      "title": "1X launches a World Model Lab to scale humanoid intelligence",
+      "summary": "The NEO maker's new research organization, headed by ex-Luma researcher Sam Sinha, will pretrain on web media, human video, simulation and robot data — world models, says CEO Bernt Børnich, will free humanoids from narrow tasks in static environments.",
+      "source": "1X Technologies",
+      "date": "4 Jun 2026",
+      "url": "https://www.1x.tech/discover/1x-world-model-lab"
+    }
+  ]
+}
