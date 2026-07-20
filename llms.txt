@@ -1,0 +1,15 @@
+# Humanoid Foundation Models — World Models Report 2026
+
+> Official microsite for humanoid.guide's foundation-model report: 100 pages and 24 chapters mapping the shift from VLA (vision-language-action) models to humanoid world models, with the Brain Score directory — 40 foundation models rated 0–10 across ten capabilities (locomotion, whole-body control, bimanual coordination, dexterous manipulation, navigation, reasoning, sim-to-real transfer, cross-embodiment, real-time inference, long-horizon planning). Released June 2026, delivered as PDF. Single User License $390, Enterprise License $1,590. Published by Humanoid Guide (humanoid.guide) — contact human@humanoid.guide.
+
+## Key pages
+
+- [The report](https://humanoidfoundationmodels.com/): five parts, the Brain Score, key findings (e.g. $13.8B robotics venture funding in 2025, 2028–30 base case for reliable generalist autonomy), licensing
+- [The Briefing archive](https://humanoidfoundationmodels.com/archive.html): curated foundation-model and embodied-AI news from the humanoid.guide desk, updated twice daily, sources linked on every story
+- [The Briefing as JSON](https://humanoidfoundationmodels.com/news.json): machine-readable news feed (title, summary, source, date, url)
+
+## Buy and publisher
+
+- [Buy the report on humanoid.guide](https://humanoid.guide/the-humanoid-foundation-model-report/)
+- [Humanoid Guide](https://humanoid.guide/): the publisher — humanoid robotics news, research and reports
+- Sister reports: [Humanoid Robot Market Report 2026](https://humanoidmarketreport.com/) · [The Humanoid Robot Supply Chain](https://humanoidrobotsupplychain.com/)
