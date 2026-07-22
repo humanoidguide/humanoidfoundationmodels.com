@@ -3,6 +3,28 @@
   "topic": "humanoid foundation models: world models, VLAs, robot brains, embodied AI research, model releases, training data, simulation, compute",
   "items": [
     {
+      "iso": "2026-07-21",
+      "chip": "World Models",
+      "art": "yellow",
+      "artTitle": "The missing μ",
+      "title": "Friction is the input robot world models are missing",
+      "summary": "Vision and joint encoders can't capture contact physics, argues Contactile CEO Heba Khamis — she proposes a 'vision-μ-action' class of models conditioned on real-time friction measurement, shifting world models from statistical pattern-matching toward causal understanding of why grasps succeed or fail.",
+      "source": "The Robot Report",
+      "date": "21 Jul 2026",
+      "url": "https://www.therobotreport.com/friction-is-key-to-making-better-robot-world-models/"
+    },
+    {
+      "iso": "2026-07-21",
+      "chip": "Training",
+      "art": "green",
+      "artTitle": "Cobots feed the model",
+      "title": "Generalist AI puts GEN-1 to work on Elite's cobots",
+      "summary": "The Nvidia-backed startup founded by ex-DeepMind researchers will use Elite Robots' industrial cobots for real-world data collection and validation of its GEN-1 foundation model — a pairing that has already logged 1,800+ block stackings with zero interventions at a 99% task success rate, according to Elite Robots.",
+      "source": "Elite Robots",
+      "date": "21 Jul 2026",
+      "url": "https://www.prnewswire.com/news-releases/elite-robots-collaborates-with-generalist-ai-on-next-gen-embodied-ai-302830427.html"
+    },
+    {
       "iso": "2026-07-19",
       "chip": "Training",
       "art": "dark",
