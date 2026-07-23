@@ -25,6 +25,17 @@
       "url": "https://www.prnewswire.com/news-releases/elite-robots-collaborates-with-generalist-ai-on-next-gen-embodied-ai-302830427.html"
     },
     {
+      "iso": "2026-07-20",
+      "chip": "Model Release",
+      "image": "https://www.tencent.com/wp-content/uploads/2026/07/Weixin-Image_20260720123842_236_341-scaled.jpg",
+      "credit": "Image © Tencent",
+      "title": "Tencent stacks three robot brains into its Tairos platform",
+      "summary": "At WAIC in Shanghai, Tencent rolled out a full-stack embodied intelligence offering — pairing the Hy-Embodied-VLA-0.5 action model with the VLM-1.0 perception and RxBrain-1.0 reasoning models under a new TairosAgent framework, according to Tencent. The Tairos platform, first launched in 2025, now ships open-source tools and cloud services for robot developers.",
+      "source": "Tencent",
+      "date": "20 Jul 2026",
+      "url": "https://www.tencent.com/tencent-unveils-full-stack-embodied-intelligence-solution-at-waic-2026/"
+    },
+    {
       "iso": "2026-07-19",
       "chip": "Training",
       "art": "dark",
