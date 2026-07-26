@@ -3,6 +3,17 @@
   "topic": "humanoid foundation models: world models, VLAs, robot brains, embodied AI research, model releases, training data, simulation, compute",
   "items": [
     {
+      "iso": "2026-07-22",
+      "chip": "Training",
+      "image": "https://neura-robotics.com/wp-content/uploads/2026/07/RWTH-Aachen-NEURA-Gym.webp",
+      "credit": "Image © NEURA Robotics",
+      "title": "NEURA and RWTH Aachen are building a 3,000 m² gym for robot experience",
+      "summary": "NEURA Robotics and RWTH Aachen University will open a 3,000-square-meter Physical AI training center on the Melaten campus by the end of 2026, where robots collect the real-world interaction data that simulation alone can't deliver. It is one of ten NEURA Gyms planned worldwide — five running across Europe, the US and China by year-end, according to the company, whose CEO David Reger says the biggest bottleneck in Physical AI 'is no longer intelligence, it's experience.'",
+      "source": "NEURA Robotics",
+      "date": "22 Jul 2026",
+      "url": "https://neura-robotics.com/neura-robotics-rwth-aachen-neura-gym-physical-ai/"
+    },
+    {
       "iso": "2026-07-21",
       "chip": "World Models",
       "art": "yellow",
