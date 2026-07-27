@@ -3,6 +3,17 @@
   "topic": "humanoid foundation models: world models, VLAs, robot brains, embodied AI research, model releases, training data, simulation, compute",
   "items": [
     {
+      "iso": "2026-07-26",
+      "chip": "Training",
+      "art": "yellow",
+      "artTitle": "The data factory",
+      "title": "Robot training data becomes a manufacturing business",
+      "summary": "Encord has turned a San Leandro facility into a data factory where camera- and sensor-rigged human 'pilots' produce the demonstrations robot models are starving for — an adequate dataset would need something like five times YouTube's video corpus, according to the company. Germany's Zander Labs is testing a stranger input: headsets that read error, intent and surprise from trainers' brains to flag when a model needs the most compute, according to TechCrunch.",
+      "source": "TechCrunch",
+      "date": "26 Jul 2026",
+      "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/"
+    },
+    {
       "iso": "2026-07-22",
       "chip": "Training",
       "image": "https://neura-robotics.com/wp-content/uploads/2026/07/RWTH-Aachen-NEURA-Gym.webp",
