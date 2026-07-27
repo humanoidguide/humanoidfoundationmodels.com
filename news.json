@@ -4,6 +4,17 @@
   "items": [
     {
       "iso": "2026-07-26",
+      "chip": "Research",
+      "image": "https://humanoid.guide/wp-content/uploads/2026/07/image-34.jpg",
+      "credit": "Image © Humanoid Guide",
+      "title": "IEEE Humanoids 2026 puts robot labor at the top of the agenda",
+      "summary": "The 25th IEEE-RAS Humanoids conference lands in Santa Clara this December under the theme 'Humanoids and the Future of Work', putting deployment governance and worker impact alongside actuators and reinforcement learning. A loco-manipulation challenge will benchmark 10–15 academic and commercial teams on standardized factory-style tasks.",
+      "source": "humanoid.guide",
+      "date": "26 Jul 2026",
+      "url": "https://humanoid.guide/ieee-humanoids-2026-puts-factory-labor-at-center-of-agenda/?utm_source=microsite&utm_medium=referral&utm_campaign=fo2026&utm_content=briefing"
+    },
+    {
+      "iso": "2026-07-26",
       "chip": "Training",
       "art": "yellow",
       "artTitle": "The data factory",
@@ -12,6 +23,17 @@
       "source": "TechCrunch",
       "date": "26 Jul 2026",
       "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/"
+    },
+    {
+      "iso": "2026-07-24",
+      "chip": "Physical AI",
+      "art": "dark",
+      "artTitle": "One brain, many hands",
+      "title": "Generalist says GEN-1 now transfers across hands, tools and grippers",
+      "summary": "Generalist has shown its GEN-1 foundation model driving five-fingered hands, power tools and custom grippers from a single base model — even adapting mid-task when the end effector is swapped, according to the company. GEN-1 was pretrained on more than half a million hours of real interaction data covering roughly 9,000 end-effector variations, Generalist says.",
+      "source": "The Robot Report",
+      "date": "24 Jul 2026",
+      "url": "https://www.therobotreport.com/generalists-gen-1-foundation-model-now-supports-a-range-of-robot-end-effectors/"
     },
     {
       "iso": "2026-07-22",
