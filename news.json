@@ -3,6 +3,17 @@
   "topic": "humanoid foundation models: world models, VLAs, robot brains, embodied AI research, model releases, training data, simulation, compute",
   "items": [
     {
+      "iso": "2026-07-30",
+      "chip": "Model Release",
+      "image": "https://lh3.googleusercontent.com/VZ5KwQMxv9xBcQnYipsQB2EUj3oX1yvFYLktIamY8V2a76Y6ctEEuaLF59TuPdnaVn6OAMINDilqnuhju1O-AXc7QlOVmcogjskrWxS7xVQ1mc5S7g=w1200-h630-n-nu-rw",
+      "credit": "Image © Google DeepMind",
+      "title": "Gemini Robotics 2 controls humanoids from feet to fingertips",
+      "summary": "Google DeepMind's new model family pairs a vision-language-action model that runs a full humanoid — walking, crouching and working 22-DOF five-fingered hands — with an embodied-reasoning model that plans multi-step tasks and coordinates teams of different robots, according to Google DeepMind. An on-device variant adapts to a new robot body in a few hours from under 200 examples, with Apptronik, Boston Dynamics and Agile Robots among the launch partners.",
+      "source": "Google DeepMind",
+      "date": "30 Jul 2026",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/"
+    },
+    {
       "iso": "2026-07-27",
       "chip": "Funding",
       "image": "https://storage.googleapis.com/accesswire/featureimages/1194919.jpg?v=60e47157-378f-4734-8293-d10ff8412d51",
