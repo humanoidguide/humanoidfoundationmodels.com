@@ -4,6 +4,17 @@
   "items": [
     {
       "iso": "2026-07-30",
+      "chip": "Physical AI",
+      "art": "green",
+      "artTitle": "Picks and shovels",
+      "title": "Five platforms are becoming physical AI's infrastructure layer",
+      "summary": "NVIDIA's simulation-and-compute stack, Applied Intuition's validation tooling, Scale AI's data factory, Hugging Face's open-source LeRobot layer and Lightwheel's Real2Sim2Real loop are hardening into the load-bearing infrastructure of robot intelligence, according to The Robot Report's analysis. Scale says it now collects more than 1,000 hours of demonstration data a day, after delivering over 150,000 hours of physical AI data to robotics customers in 2025.",
+      "source": "The Robot Report",
+      "date": "30 Jul 2026",
+      "url": "https://www.therobotreport.com/5-physical-ai-infrastructure-platforms-shaping-robotics-in-2026/"
+    },
+    {
+      "iso": "2026-07-30",
       "chip": "Model Release",
       "image": "https://lh3.googleusercontent.com/VZ5KwQMxv9xBcQnYipsQB2EUj3oX1yvFYLktIamY8V2a76Y6ctEEuaLF59TuPdnaVn6OAMINDilqnuhju1O-AXc7QlOVmcogjskrWxS7xVQ1mc5S7g=w1200-h630-n-nu-rw",
       "credit": "Image © Google DeepMind",
