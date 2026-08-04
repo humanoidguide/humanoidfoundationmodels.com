@@ -3,6 +3,17 @@
   "topic": "humanoid foundation models: world models, VLAs, robot brains, embodied AI research, model releases, training data, simulation, compute",
   "items": [
     {
+      "iso": "2026-08-03",
+      "chip": "Training",
+      "art": "dark",
+      "artTitle": "Taught, not programmed",
+      "title": "Reimagine Robotics wants workers, not programmers, to teach robots",
+      "summary": "Founded by leaders of Google DeepMind's applied robotics group, the London- and Sydney-based startup has emerged from stealth with pre-seed backing from Fly Ventures and firstminute capital, building systems that let front-line workers teach robots by demonstration and correct them mid-task. Its first cells are tending 3D printers and disassembling hard drives for materials recovery, and prototyping a new behavior has shrunk from about a day to roughly 10 minutes, according to the company.",
+      "source": "The Robot Report",
+      "date": "3 Aug 2026",
+      "url": "https://www.therobotreport.com/reimagine-robotics-emerges-stealth-with-robotslearn-on-the-job/"
+    },
+    {
       "iso": "2026-07-30",
       "chip": "Physical AI",
       "art": "green",
