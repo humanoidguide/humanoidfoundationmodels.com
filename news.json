@@ -3,6 +3,28 @@
   "topic": "humanoid foundation models: world models, VLAs, robot brains, embodied AI research, model releases, training data, simulation, compute",
   "items": [
     {
+      "iso": "2026-08-04",
+      "chip": "Demo",
+      "image": "https://humanoid.guide/wp-content/uploads/2026/08/image-5.jpg",
+      "credit": "Image © Humanoid Guide",
+      "title": "Figure 03 climbs a ladder — Adcock calls it fully autonomous",
+      "summary": "A new video shows the Figure 03 humanoid ascending a ladder with no visible human intervention — 'fully autonomous,' according to founder Brett Adcock, whose Helix system pairs visual perception with whole-body motion control. Figure has not disclosed the control stack behind the clip, and repeatability, speed and whether the setup was staged all remain unverified.",
+      "source": "humanoid.guide",
+      "date": "4 Aug 2026",
+      "url": "https://humanoid.guide/figure-03-demonstrates-autonomous-ladder-climbing-in-video/?utm_source=microsite&utm_medium=referral&utm_campaign=fo2026&utm_content=briefing"
+    },
+    {
+      "iso": "2026-08-03",
+      "chip": "Model Release",
+      "image": "https://humanoid.guide/wp-content/uploads/2026/08/screenshot-2.jpg",
+      "credit": "Image © Humanoid Guide",
+      "title": "Unitree folds hearing, sight and control into one G1 brain",
+      "summary": "UnifoLM OminiA runs Unitree's G1 as a single system — handling spoken requests, visual scenes, task reasoning and interruption recovery in one framework, with household jobs like laundry sorting and dishwasher loading as the pitch, according to the company. Code and weights stay closed for this version, which ships to G1 owners via backorder rather than as finished mass-market software.",
+      "source": "humanoid.guide",
+      "date": "3 Aug 2026",
+      "url": "https://humanoid.guide/welcome-unifolm-ominia/?utm_source=microsite&utm_medium=referral&utm_campaign=fo2026&utm_content=briefing"
+    },
+    {
       "iso": "2026-08-03",
       "chip": "Training",
       "art": "dark",
