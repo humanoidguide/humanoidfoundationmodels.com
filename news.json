@@ -3,6 +3,17 @@
   "topic": "humanoid foundation models: world models, VLAs, robot brains, embodied AI research, model releases, training data, simulation, compute",
   "items": [
     {
+      "iso": "2026-08-10",
+      "chip": "Simulation",
+      "art": "yellow",
+      "artTitle": "Hacking the sim",
+      "title": "DEF CON's robot hacks become a free Isaac Sim test suite",
+      "summary": "Trend Micro subsidiary VicOne has released a free Radeis extension for NVIDIA Isaac Sim that lets developers replay adversarial visual prompts, malicious inputs and sensor manipulation attacks against their own robot models in simulation. The scenarios build on a DEF CON 34 robot-hacking challenge where 16 teams logged 25 successful solves, according to the company.",
+      "source": "The Robot Report",
+      "date": "10 Aug 2026",
+      "url": "https://www.therobotreport.com/vicone-releases-free-nviida-isaac-sim-cybersecurity-extension-based-def-con-34-research/"
+    },
+    {
       "iso": "2026-08-06",
       "chip": "World Models",
       "image": "https://humanoid.guide/wp-content/uploads/2026/08/screenshot-8.jpg",
