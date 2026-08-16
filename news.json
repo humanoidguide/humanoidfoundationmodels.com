@@ -3,6 +3,17 @@
   "topic": "humanoid foundation models: world models, VLAs, robot brains, embodied AI research, model releases, training data, simulation, compute",
   "items": [
     {
+      "iso": "2026-08-15",
+      "chip": "Training",
+      "art": "green",
+      "artTitle": "Trained in silence",
+      "title": "Robots are learning in silent worlds, Treble warns",
+      "summary": "Humanoids will be judged less by how they move than by how they communicate, argues Treble Technologies co-founder Gunnar Pétur Hauksson — yet the environments robots train in are overwhelmingly visual and, for the most part, silent. The Icelandic firm's simulation platform generates physically accurate acoustic training data with a low sim-to-real gap and is already used by leading technology companies, according to Treble.",
+      "source": "The Robot Report",
+      "date": "15 Aug 2026",
+      "url": "https://www.therobotreport.com/why-robots-that-cant-communicate-naturally-wont-be-adopted-says-treble/"
+    },
+    {
       "iso": "2026-08-10",
       "chip": "Simulation",
       "art": "yellow",
