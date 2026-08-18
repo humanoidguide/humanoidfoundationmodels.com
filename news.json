@@ -3,6 +3,17 @@
   "topic": "humanoid foundation models: world models, VLAs, robot brains, embodied AI research, model releases, training data, simulation, compute",
   "items": [
     {
+      "iso": "2026-08-17",
+      "chip": "Training",
+      "title": "Generalist's data recipe: human hours, robot minutes",
+      "summary": "Generalist told The Robot Report it builds robot manipulation skills from 2–80 hours of human demonstration data per task, then refines them with as little as 4–80 minutes of robot-collected footage. According to the company, the models it has run on Universal Robots and Flexiv cobot arms weren't programmed for error recovery — they learned it from other interactions in its dataset.",
+      "source": "The Robot Report",
+      "date": "17 Aug 2026",
+      "url": "https://www.therobotreport.com/how-generalist-uses-human-demonstration-data-robot-learning/",
+      "art": "yellow",
+      "artTitle": "Hours in, minutes out"
+    },
+    {
       "iso": "2026-08-15",
       "chip": "Simulation",
       "title": "Newton 1.5 wires joint control into GPU-scale robot sims",
