@@ -3,6 +3,17 @@
   "topic": "humanoid foundation models: world models, VLAs, robot brains, embodied AI research, model releases, training data, simulation, compute",
   "items": [
     {
+      "iso": "2026-08-22",
+      "chip": "Physical AI",
+      "title": "Scaling robots is a staffing problem, HireArt argues",
+      "summary": "The limiting factor in real-world robot deployments is rarely the robot but the workforce that operates, maintains and adapts it, argues HireArt co-founder Christopher Bower in The Robot Report. He describes a new layer of roles sitting between engineering and operations — teleoperators, data capture specialists, QA validators and field technicians.",
+      "source": "The Robot Report",
+      "date": "22 Aug 2026",
+      "url": "https://www.therobotreport.com/robots-dont-run-themselves-workforce-powering-physical-ai/",
+      "art": "dark",
+      "artTitle": "The human layer"
+    },
+    {
       "iso": "2026-08-21",
       "chip": "Research",
       "title": "NVIDIA and Berkeley give robot touch its own reflex loop",
