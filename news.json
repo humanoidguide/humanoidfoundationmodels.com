@@ -3,6 +3,17 @@
   "topic": "humanoid foundation models: world models, VLAs, robot brains, embodied AI research, model releases, training data, simulation, compute",
   "items": [
     {
+      "iso": "2026-08-25",
+      "chip": "Compute",
+      "title": "NVIDIA's Jetson Orin Nano 2 doubles the entry-level robot brain",
+      "summary": "The 78-TOPS module delivers twice the inference performance of its predecessor and, according to NVIDIA, lets robots run frontier LLMs and vision-language models directly on the edge. It is slated for the first half of 2027, with a 15-watt mode that matches the outgoing board's peak output on 40% less power.",
+      "source": "NVIDIA",
+      "date": "25 Aug 2026",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-announces-jetson-orin-nano-2-robotics-computer-to-redefine-entry-level-edge-ai",
+      "image": "https://iprsoftwaremedia.com/219/files/202608/01129f086f93bf1c2014fee1bc8cd4e2/6a8c7ec03d6332d2f389b07b_jetson-orin-nano-2/jetson-orin-nano-2_14abfacb-ea35-4a1f-a3d4-01693db66823-prv.jpg?v=14abfacb-ea35-4a1f-a3d4-01693db66823",
+      "credit": "Image © NVIDIA"
+    },
+    {
       "iso": "2026-08-24",
       "chip": "Funding",
       "title": "General Intuition courts a $6B valuation to crack robotics",
