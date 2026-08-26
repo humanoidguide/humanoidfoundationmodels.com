@@ -3,6 +3,28 @@
   "topic": "humanoid foundation models: world models, VLAs, robot brains, embodied AI research, model releases, training data, simulation, compute",
   "items": [
     {
+      "iso": "2026-08-24",
+      "chip": "Funding",
+      "title": "General Intuition courts a $6B valuation to crack robotics",
+      "summary": "The Medal spinout, which trains action models on hundreds of millions of hours of gameplay footage, is raising an oversubscribed round at a $6 billion pre-money valuation — up from $2.3 billion in June — with Valor Equity Partners, Point72 Ventures and Seven Seven Six joining, according to TechCrunch. The new money is earmarked for compute and for extending its general model to robotic embodiments.",
+      "source": "TechCrunch",
+      "date": "24 Aug 2026",
+      "url": "https://techcrunch.com/2026/08/24/valor-point72-back-general-intuition-at-6b-valuation-as-ai-startup-pushes-into-robotics/",
+      "art": "green",
+      "artTitle": "Trained on gameplay"
+    },
+    {
+      "iso": "2026-08-24",
+      "chip": "Funding",
+      "title": "Generalist stacks another $200M onto its Series B",
+      "summary": "Two months after its $400 million June round, the robot-brains developer has added roughly $200 million more led by 8VC, with NVIDIA, Bezos Expeditions and Fei-Fei Li among the backers, according to an SEC filing reported by Axios. TechCrunch says the extension lifts Generalist's Series B to $600 million in total.",
+      "source": "Axios",
+      "date": "24 Aug 2026",
+      "url": "https://www.axios.com/2026/08/24/robotics-ai-generalist-200m",
+      "art": "yellow",
+      "artTitle": "Doubling down"
+    },
+    {
       "iso": "2026-08-22",
       "chip": "Physical AI",
       "title": "Scaling robots is a staffing problem, HireArt argues",
