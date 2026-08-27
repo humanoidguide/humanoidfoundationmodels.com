@@ -3,6 +3,17 @@
   "topic": "humanoid foundation models: world models, VLAs, robot brains, embodied AI research, model releases, training data, simulation, compute",
   "items": [
     {
+      "iso": "2026-08-26",
+      "chip": "Analysis",
+      "title": "Robot brains are still in their GPT-2 era, builders say",
+      "summary": "Reporting from Actuate — a robotics conference that has tripled in size since 2023, drawing 1,500 attendees according to organizer Foxglove — TechCrunch finds robot hardware outrunning the models that control it, with physical AI sitting in its 'GPT-2 era', as Antioch founder Harry Mellsop puts it. Wayve CEO Alex Kendall reckons manipulation robotics today is roughly where self-driving was five years ago.",
+      "source": "TechCrunch",
+      "date": "26 Aug 2026",
+      "url": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/",
+      "art": "dark",
+      "artTitle": "The GPT-2 era"
+    },
+    {
       "iso": "2026-08-25",
       "chip": "Compute",
       "title": "NVIDIA's Jetson Orin Nano 2 doubles the entry-level robot brain",
