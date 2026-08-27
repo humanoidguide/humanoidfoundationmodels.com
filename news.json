@@ -4,6 +4,17 @@
   "items": [
     {
       "iso": "2026-08-26",
+      "chip": "Model Release",
+      "title": "Perceptron's Isaac 0.5 gives factory robots an open-weight eye",
+      "summary": "Perceptron, founded by two former Meta AI researchers, has released Isaac 0.5, an open-weight vision model built to let industrial robots perceive, reason and act — rejecting what the founders call a false choice between heavyweight generalist models and narrow perception-only systems. It was trained on a million hours of video, from egocentric footage to human demonstrations, according to the company.",
+      "source": "TechCrunch",
+      "date": "26 Aug 2026",
+      "url": "https://techcrunch.com/2026/08/26/ex-meta-scientists-want-to-bring-visual-ai-to-the-factory-floor/",
+      "art": "yellow",
+      "artTitle": "Perception first"
+    },
+    {
+      "iso": "2026-08-26",
       "chip": "Analysis",
       "title": "Robot brains are still in their GPT-2 era, builders say",
       "summary": "Reporting from Actuate — a robotics conference that has tripled in size since 2023, drawing 1,500 attendees according to organizer Foxglove — TechCrunch finds robot hardware outrunning the models that control it, with physical AI sitting in its 'GPT-2 era', as Antioch founder Harry Mellsop puts it. Wayve CEO Alex Kendall reckons manipulation robotics today is roughly where self-driving was five years ago.",
