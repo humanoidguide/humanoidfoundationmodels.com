@@ -3,6 +3,17 @@
   "topic": "humanoid foundation models: world models, VLAs, robot brains, embodied AI research, model releases, training data, simulation, compute",
   "items": [
     {
+      "iso": "2026-08-27",
+      "chip": "Research",
+      "title": "NSF backs a $30M center for human-robot co-adaptation",
+      "summary": "The U.S. National Science Foundation is putting $90 million into three new Science and Technology Centers, and the robotics one — the Center for Human and Robot Co-Adaptation at the University of Texas at Austin — gets $30 million over five years to study how people and robots with embodied intelligence adapt to one another as service and assistive robots spread through homes, hospitals and workplaces. Apptronik, Google DeepMind and NVIDIA are among the center's industry partners, according to the university.",
+      "source": "The Robot Report",
+      "date": "27 Aug 2026",
+      "url": "https://www.therobotreport.com/nsf-invests-90m-three-new-technology-centers-including-one-focused-robotics/",
+      "image": "https://news.utexas.edu/wp-content/uploads/Joydeep-Biswas-1-scaled.jpg",
+      "credit": "Image © The University of Texas at Austin"
+    },
+    {
       "iso": "2026-08-26",
       "chip": "Model Release",
       "title": "Perceptron's Isaac 0.5 gives factory robots an open-weight eye",
