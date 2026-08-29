@@ -3,6 +3,17 @@
   "topic": "humanoid foundation models: world models, VLAs, robot brains, embodied AI research, model releases, training data, simulation, compute",
   "items": [
     {
+      "iso": "2026-08-28",
+      "chip": "Training",
+      "title": "EXL scoops up physical-AI data trainer iMerit",
+      "summary": "ExlService Holdings has completed its purchase of iMerit, the San Jose firm whose annotation workforce and Ango Hub platform prepare multimodal training, evaluation and reinforcement-learning data for robotics and autonomous mobility. Founder Radha Basu stays on to run the unit inside EXL, which says the deal connects parts of the AI lifecycle that have often been managed separately.",
+      "source": "The Robot Report",
+      "date": "28 Aug 2026",
+      "url": "https://www.therobotreport.com/exl-acquires-physical-ai-model-developer-imerit/",
+      "art": "dark",
+      "artTitle": "Data changes hands"
+    },
+    {
       "iso": "2026-08-27",
       "chip": "Research",
       "title": "NSF backs a $30M center for human-robot co-adaptation",
