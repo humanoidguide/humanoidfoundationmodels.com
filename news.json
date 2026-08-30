@@ -15,6 +15,17 @@
     },
     {
       "iso": "2026-08-27",
+      "chip": "Open Source",
+      "title": "Hugging Face's $399 Microduck opens up physical AI",
+      "summary": "The 25 cm robot waddles, roller-skates and rights itself after falls, and its simulation, SDK and reinforcement-learning stack are open source, so behaviors trained in sim run straight on the hardware, according to Hugging Face. CEO Clem Delangue pitches it as the start of affordable open robots that democratize physical AI and world models, with shipping due before Christmas.",
+      "source": "TechCrunch",
+      "date": "27 Aug 2026",
+      "url": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck/",
+      "art": "green",
+      "artTitle": "Physical AI, democratized"
+    },
+    {
+      "iso": "2026-08-27",
       "chip": "Research",
       "title": "NSF backs a $30M center for human-robot co-adaptation",
       "summary": "The U.S. National Science Foundation is putting $90 million into three new Science and Technology Centers, and the robotics one — the Center for Human and Robot Co-Adaptation at the University of Texas at Austin — gets $30 million over five years to study how people and robots with embodied intelligence adapt to one another as service and assistive robots spread through homes, hospitals and workplaces. Apptronik, Google DeepMind and NVIDIA are among the center's industry partners, according to the university.",
