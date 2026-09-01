@@ -3,6 +3,28 @@
   "topic": "humanoid foundation models: world models, VLAs, robot brains, embodied AI research, model releases, training data, simulation, compute",
   "items": [
     {
+      "iso": "2026-09-01",
+      "chip": "Training",
+      "title": "Kinetic Blocks puts robot training data up for sale",
+      "summary": "The Oslo startup's new marketplace lists egocentric video, teleoperation recordings and robot execution data with chain-of-custody documentation and a quality grade, and buyers walk away with a commercial licence at checkout, according to the company. It opens September 1 as a gated beta, with sellers and buyers approved individually.",
+      "source": "humanoid.guide",
+      "date": "1 Sep 2026",
+      "url": "https://humanoid.guide/kinetic-blocks-humanoid-training-data-marketplace/?utm_source=microsite&utm_medium=referral&utm_campaign=fo2026&utm_content=briefing",
+      "image": "https://humanoid.guide/wp-content/uploads/2026/08/KB_top.jpg",
+      "credit": "Image © Kinetic Blocks"
+    },
+    {
+      "iso": "2026-08-31",
+      "chip": "Model Release",
+      "title": "Skild's S1 learns a 10-minute chore from one video",
+      "summary": "Skild AI says its flagship S1 foundation model picks up long-horizon tasks like repotting a plant or cooking pancakes from a single human video added to its prompt, and that the same 'omni-bodied' brain runs quadrupeds, static arms and humanoids alike. CEO Deepak Pathak tells The Robot Report that humanoid performance is the next focus – and that robotics still hasn't hit its ChatGPT moment.",
+      "source": "The Robot Report",
+      "date": "31 Aug 2026",
+      "url": "https://www.therobotreport.com/skild-ai-unveils-s1-flagship-robot-foundation-model/",
+      "art": "yellow",
+      "artTitle": "Watch and learn"
+    },
+    {
       "iso": "2026-08-30",
       "chip": "Physical AI",
       "title": "Sanctuary skips the humanoid and ships the brain",
