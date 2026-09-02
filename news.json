@@ -4,6 +4,17 @@
   "items": [
     {
       "iso": "2026-09-01",
+      "chip": "World Models",
+      "title": "Visko's Orbis streams interactive worlds by the hour",
+      "summary": "The Sunnyvale startup's first 'live model' generates frame by frame the way an LLM predicts tokens – streaming 4K video at 24 fps, taking prompt changes mid-generation and sustaining hour-scale runs without drift, according to founder Qing Yin. Visko pitches Orbis for robotics training and simulation, opened public access at launch and closed a $10 million pre-seed led by Llama Ventures.",
+      "source": "The Robot Report",
+      "date": "1 Sep 2026",
+      "url": "https://www.therobotreport.com/visko-launches-orbis-live-model-closes-pre-seed-funding-round/",
+      "art": "dark",
+      "artTitle": "Worlds on tap"
+    },
+    {
+      "iso": "2026-09-01",
       "chip": "Training",
       "title": "Kinetic Blocks puts robot training data up for sale",
       "summary": "The Oslo startup's new marketplace lists egocentric video, teleoperation recordings and robot execution data with chain-of-custody documentation and a quality grade, and buyers walk away with a commercial licence at checkout, according to the company. It opens September 1 as a gated beta, with sellers and buyers approved individually.",
