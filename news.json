@@ -3,6 +3,17 @@
   "topic": "humanoid foundation models: world models, VLAs, robot brains, embodied AI research, model releases, training data, simulation, compute",
   "items": [
     {
+      "iso": "2026-09-03",
+      "chip": "Acquisition",
+      "title": "NVIDIA snaps up Hugging Face for $12.9 billion",
+      "summary": "The chipmaker has agreed to buy the open AI development platform that also houses LeRobot, the open-source library for robot datasets, models and policies. NVIDIA says Hugging Face will remain open to the entire AI ecosystem — and that NVIDIA compute will not be required to build or deploy on it.",
+      "source": "The Robot Report",
+      "date": "3 Sep 2026",
+      "url": "https://www.therobotreport.com/nvidia-to-acquire-hugging-face-and-keep-ai-develpment-platform-open/",
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/09/hf-nvidia-partner_hf-nvidia-partner-press-1920x1080-2.png",
+      "credit": "Image © NVIDIA"
+    },
+    {
       "iso": "2026-09-01",
       "chip": "World Models",
       "title": "Visko's Orbis streams interactive worlds by the hour",
