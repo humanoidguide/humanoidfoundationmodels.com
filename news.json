@@ -3,6 +3,17 @@
   "topic": "humanoid foundation models: world models, VLAs, robot brains, embodied AI research, model releases, training data, simulation, compute",
   "items": [
     {
+      "iso": "2026-09-08",
+      "chip": "Research",
+      "title": "Galbot's RoboGesture matches humanoid gestures to speech in real time",
+      "summary": "RoboGesture generates humanoid gestures from spoken language in real time, tackling limited training data, speech-to-motion mapping and the safety risks of running generated motions on real hardware, according to Galbot. Built with researchers at Tsinghua, Peking University and three other Chinese institutes, the framework is set for ECCV 2026 — with no performance figures or test platform disclosed yet.",
+      "source": "humanoid.guide",
+      "date": "8 Sep 2026",
+      "url": "https://humanoid.guide/galbot-unveils-robogesture-for-speech-matched-humanoid-motion/?utm_source=microsite&utm_medium=referral&utm_campaign=fo2026&utm_content=briefing",
+      "image": "https://humanoid.guide/wp-content/uploads/2026/09/image-10.jpg",
+      "credit": "Image © Humanoid Guide"
+    },
+    {
       "iso": "2026-09-06",
       "chip": "Compute",
       "title": "Figure lines up a $3.5 billion supercomputer for Helix",
