@@ -3,6 +3,28 @@
   "topic": "humanoid foundation models: world models, VLAs, robot brains, embodied AI research, model releases, training data, simulation, compute",
   "items": [
     {
+      "iso": "2026-09-11",
+      "chip": "Funding",
+      "title": "Mecka nears a $500M valuation in the robot-data rush",
+      "summary": "Sequoia is leading a round that would value the two-year-old startup at about $500 million – terms not yet final, according to TechCrunch – just three months after its $60 million Series A. Mecka pays people to record everyday tasks with body sensors and smartphones, turning human motion into training data for humanoid developers.",
+      "source": "TechCrunch",
+      "date": "11 Sep 2026",
+      "url": "https://techcrunch.com/2026/09/11/mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-data/",
+      "art": "yellow",
+      "artTitle": "Paid to move"
+    },
+    {
+      "iso": "2026-09-10",
+      "chip": "Training",
+      "title": "Touch datasets swell to teach robots what vision can't",
+      "summary": "Standardized tactile data is scaling fast: Tsinghua researchers have pooled more than 3,000 hours across 21 sensor types into one hardware-agnostic model, and Fudan spinout NeoteAI has logged over 30,000 hours of demonstrations, according to IEEE Spectrum. The payoff shows in the tasks VLAs fumble – seating a USB plug, turning a key – where Berkeley's tactile-trained system hit a 65% success rate across 12 tasks, nearly double the best VLA.",
+      "source": "IEEE Spectrum",
+      "date": "10 Sep 2026",
+      "url": "https://spectrum.ieee.org/tactile-data-robots",
+      "art": "green",
+      "artTitle": "Data you can feel"
+    },
+    {
       "iso": "2026-09-08",
       "chip": "Research",
       "title": "Galbot's RoboGesture matches humanoid gestures to speech in real time",
