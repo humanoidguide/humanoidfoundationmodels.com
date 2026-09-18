@@ -3,6 +3,17 @@
   "topic": "humanoid foundation models: world models, VLAs, robot brains, embodied AI research, model releases, training data, simulation, compute",
   "items": [
     {
+      "iso": "2026-09-17",
+      "chip": "Standards",
+      "title": "Arm rallies 80 companies around physical AI",
+      "summary": "Arm's new Total Design for Physical AI program brings together more than 80 companies spanning the physical AI stack — from NXP and AWS to Hugging Face, Qwen and Unitree — according to Arm. A companion Robotics Capability Framework grades robots from RL0 reactive systems up to RL5 self-improving ones, meant as a common language for what robots can actually do.",
+      "source": "The Robot Report",
+      "date": "17 Sep 2026",
+      "url": "https://www.therobotreport.com/arm-total-design-for-physical-ai-brings-more-than-80-developers-together/",
+      "image": "https://newsroom.arm.com/wp-content/uploads/2026/09/ATD-RCF.jpg",
+      "credit": "Image © Arm"
+    },
+    {
       "iso": "2026-09-13",
       "chip": "Simulation",
       "title": "Meta quietly open-sources SuperDex, its dexterity stack",
