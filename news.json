@@ -14,6 +14,17 @@
       "credit": "Image © Arm"
     },
     {
+      "iso": "2026-09-16",
+      "chip": "Training",
+      "title": "Kinetic Blocks opens a free index of 27 robot datasets",
+      "summary": "The training-data startup has published a no-login catalogue at kineticblocks.com/open-data indexing 27 open robotics datasets — around 19,000 hours of robot and first-person human video spanning DROID, Open X-Embodiment and AgiBot World — with each licence spelled out in plain words, according to Kinetic Blocks. The company hosts none of the files itself and says quality and usability checks on the sets will follow.",
+      "source": "humanoid.guide",
+      "date": "16 Sep 2026",
+      "url": "https://humanoid.guide/kinetic-blocks-open-robotics-datasets-catalogue/?utm_source=microsite&utm_medium=referral&utm_campaign=fo2026&utm_content=briefing",
+      "image": "https://humanoid.guide/wp-content/uploads/2026/09/KB_top.jpg",
+      "credit": "Image © Kinetic Blocks"
+    },
+    {
       "iso": "2026-09-13",
       "chip": "Simulation",
       "title": "Meta quietly open-sources SuperDex, its dexterity stack",
