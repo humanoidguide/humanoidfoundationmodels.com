@@ -3,6 +3,28 @@
   "topic": "humanoid foundation models: world models, VLAs, robot brains, embodied AI research, model releases, training data, simulation, compute",
   "items": [
     {
+      "iso": "2026-09-19",
+      "chip": "Training",
+      "title": "Reward AI's OM-1 skips teleoperation, learns from human demos",
+      "summary": "The startup's general-purpose robot policy trains on manipulation data captured by a wearable 7-DOF Omnibody Hand as people simply do their work — no teleoperation, no on-robot data — and picks up a new task from under 30 minutes of demonstrations, according to Reward AI. humanoid.guide notes that no paper, open model or benchmark data is public yet.",
+      "source": "humanoid.guide",
+      "date": "19 Sep 2026",
+      "url": "https://humanoid.guide/reward-ai-unveils-om-1-model-trained-on-human-demonstrations/?utm_source=microsite&utm_medium=referral&utm_campaign=fo2026&utm_content=briefing",
+      "image": "https://rewardai.com/blog/OM-1/images/om1-cover.png",
+      "credit": "Image © Reward AI"
+    },
+    {
+      "iso": "2026-09-18",
+      "chip": "Model Release",
+      "title": "Figure's Helix 2.5 takes on 30 unseen homes zero-shot",
+      "summary": "Pretrained on Figure's Index dataset of human behavior, the new policy tackled bed-making, towel-folding and tidying in 30 Bay Area homes it had never seen, scoring 56% across 420 attempts against 9% for a from-scratch baseline — the first zero-shot whole-body generalization at this scope, according to Figure. The company says Helix 2.5 also matched its predecessor on half the adaptation data.",
+      "source": "humanoid.guide",
+      "date": "18 Sep 2026",
+      "url": "https://humanoid.guide/figure-unveils-helix-2-5-after-tests-in-30-unseen-homes/?utm_source=microsite&utm_medium=referral&utm_campaign=fo2026&utm_content=briefing",
+      "image": "https://images.ctfassets.net/qx5k8y1u9drj/4CPKQKu184BLNmPpAgHKuM/04ae48b4a30aaf37bd65a411f2372ef6/OPEN_GRAPH_IMAGE_helix_2.5.jpg",
+      "credit": "Image © Figure"
+    },
+    {
       "iso": "2026-09-17",
       "chip": "Standards",
       "title": "Arm rallies 80 companies around physical AI",
