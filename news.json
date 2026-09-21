@@ -3,6 +3,17 @@
   "topic": "humanoid foundation models: world models, VLAs, robot brains, embodied AI research, model releases, training data, simulation, compute",
   "items": [
     {
+      "iso": "2026-09-20",
+      "chip": "Roadmap",
+      "title": "Spirit AI puts a 2027 date on the robot-brain breakthrough",
+      "summary": "Cofounder Gao Yang tells Reuters that Spirit AI's robot brains will reach their “GPT-3.0 milestone” by mid-2027 — hear a spoken request, then attempt a series of reasonable physical actions — with tens of Moz1 wheeled humanoids already working at CATL and JD.com and around 1,000 contractors capturing movement data, according to the company. The date is a forecast rather than a demonstrated benchmark, and Gao concedes fine-motor tasks like unscrewing a bottle cap remain unsolved.",
+      "source": "humanoid.guide",
+      "date": "20 Sep 2026",
+      "url": "https://humanoid.guide/spirit-ai-targets-2027-breakthrough-in-humanoid-robot-brains/?utm_source=microsite&utm_medium=referral&utm_campaign=fo2026&utm_content=briefing",
+      "art": "dark",
+      "artTitle": "The 2027 bet"
+    },
+    {
       "iso": "2026-09-19",
       "chip": "Training",
       "title": "Reward AI's OM-1 skips teleoperation, learns from human demos",
