@@ -17,7 +17,7 @@
       "iso": "2026-09-22",
       "chip": "Physical AI",
       "title": "Isaac ROS 5.0 puts AI agents into the robot toolchain",
-      "summary": "NVIDIA's ROSCon release adds agentic workflows that automate environment setup and repetitive development chores, alongside new Isaac Skills including a FoundationStereo fine-tuning path and a FoundationPose inference library NVIDIA says tracks objects 5.5x faster. The GPU-accelerated package set supports ROS 2 Lyrical on Ubuntu 24.04, and Mentee Robotics, Flexiv, Magna and Intrinsic are already using it, according to the company.",
+      "summary": "NVIDIA's ROSCon release adds agentic workflows that automate environment setup and repetitive development chores, alongside new Isaac Skills including a FoundationStereo fine-tuning path and a FoundationPose inference library NVIDIA says tracks objects up to 5.5x faster. The GPU-accelerated package set supports ROS 2 Lyrical on Ubuntu 24.04, and Mentee Robotics, Flexiv, Magna and Intrinsic are already using it, according to the company.",
       "source": "The Robot Report",
       "date": "22 Sep 2026",
       "url": "https://www.therobotreport.com/isaac-ros-5-0-brings-ai-agents-robotics-development-says-nvidia/",
