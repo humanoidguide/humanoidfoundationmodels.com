@@ -3,6 +3,17 @@
   "topic": "humanoid foundation models: world models, VLAs, robot brains, embodied AI research, model releases, training data, simulation, compute",
   "items": [
     {
+      "iso": "2026-09-26",
+      "chip": "Open Source",
+      "title": "China Mobile open-sources Open-RAIL to smooth VLA-driven motion",
+      "summary": "China Mobile has released Open-RAIL under an Apache 2.0 license, a deployment layer that runs observation, model inference and motor control as separate asynchronous loops to cut the jerky motion of humanoids driven by vision-language-action models. It supports models including Nvidia's GR00T, Physical Intelligence's π0 and AgiBot's GO-1 on robots such as the AgiBot G1, and the team reports large gains in smoothness and task success, figures humanoid.guide notes are not independently verified.",
+      "source": "humanoid.guide",
+      "date": "26 Sep 2026",
+      "url": "https://humanoid.guide/china-mobile-releases-open-rail-humanoid-control-software/?utm_source=microsite&utm_medium=referral&utm_campaign=fo2026&utm_content=briefing",
+      "image": "https://humanoid.guide/wp-content/uploads/2026/09/image-40.jpg",
+      "credit": "Image © Humanoid Guide"
+    },
+    {
       "iso": "2026-09-23",
       "chip": "Acquisition",
       "title": "Qualcomm buys PickNik and vows MoveIt stays open",
