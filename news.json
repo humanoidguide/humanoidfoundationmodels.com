@@ -15,6 +15,17 @@
     },
     {
       "iso": "2026-09-23",
+      "chip": "Model Release",
+      "title": "Light Origins bets on human motion to scale robot brains",
+      "summary": "Singapore's Light Origins, founded by former OpenAI researcher Roger Jiang, has launched Light-O1, a 4-billion-parameter embodied foundation model pretrained on up to roughly 100,000 hours of 3D human actions recovered from internet video. According to the company, prediction error on its in-house LightBot humanoid and a Unitree G1 fell along power-law curves as pretraining scaled, and it has open-sourced the weights and code of a Light-O1-Preview text-to-action model.",
+      "source": "Light Origins (PR Newswire)",
+      "date": "23 Sep 2026",
+      "url": "https://www.prnewswire.com/news-releases/light-origins-launches-light-o1-cross-embodiment-transfer-improves-as-human-action-pretraining-scales-302887959.html",
+      "image": "https://mmx.prnewswire.com/media/MS1994800/20260923062854EDT_image_1.jpg",
+      "credit": "Image © Light Origins"
+    },
+    {
+      "iso": "2026-09-23",
       "chip": "Acquisition",
       "title": "Qualcomm buys PickNik and vows MoveIt stays open",
       "summary": "The chipmaker is acquiring Boulder-based PickNik, steward of the widely used MoveIt manipulation framework, and says MoveIt 1 and 2 will remain open-source under their existing licenses with third-party hardware still supported. Announced at ROSCon in Toronto, the deal folds motion planning into the Dragonwing robotics platform Qualcomm pitches at everything up to full-size humanoids; the price wasn't disclosed.",
