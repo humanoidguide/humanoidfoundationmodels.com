@@ -3,6 +3,17 @@
   "topic": "humanoid foundation models: world models, VLAs, robot brains, embodied AI research, model releases, training data, simulation, compute",
   "items": [
     {
+      "iso": "2026-09-29",
+      "chip": "World Models",
+      "title": "DYNA 2.1 aims to work a full laundry shift unattended",
+      "summary": "DYNA Robotics has launched DYNA 2.1, a wheeled, two-armed semi-humanoid driven by its DYNA 2 world action model, which the company says was trained on one million hours of human and robot data and paired with a vision-language orchestrator and whole-body controller. According to DYNA, the system completes full commercial workflows such as a laundry shift, and the company judges it on mean time between interventions rather than single-task success; it says robots are already deployed in hotels, laundromats and restaurants.",
+      "source": "DYNA Robotics (PR Newswire)",
+      "date": "29 Sep 2026",
+      "url": "https://www.prnewswire.com/news-releases/dyna-robotics-launches-dyna-2-1-physical-agent-a-semi-humanoid-robot-that-completes-full-workflows-such-as-a-commercial-laundry-shift-302892411.html",
+      "art": "yellow",
+      "artTitle": "Full-shift brain"
+    },
+    {
       "iso": "2026-09-26",
       "chip": "Open Source",
       "title": "China Mobile open-sources Open-RAIL to smooth VLA-driven motion",
