@@ -3,6 +3,17 @@
   "topic": "humanoid foundation models: world models, VLAs, robot brains, embodied AI research, model releases, training data, simulation, compute",
   "items": [
     {
+      "iso": "2026-09-30",
+      "chip": "Training Data",
+      "title": "Innodata opens a mocap lab to feed humanoid training",
+      "summary": "Innodata has opened a motion-capture lab in Ridgefield Park, New Jersey, using Vicon optical cameras to record human, robot and object movement directly in 3D rather than inferring it from 2D video. The company will sell off-the-shelf and custom motion datasets, retarget motion across robot platforms, and offer independent robot evaluation and safety validation.",
+      "source": "The Robot Report",
+      "date": "30 Sep 2026",
+      "url": "https://www.therobotreport.com/innodata-opens-motion-capture-lab-help-humanoids-move-more-like-people/",
+      "art": "dark",
+      "artTitle": "Motion, measured"
+    },
+    {
       "iso": "2026-09-29",
       "chip": "World Models",
       "title": "DYNA 2.1 aims to work a full laundry shift unattended",
