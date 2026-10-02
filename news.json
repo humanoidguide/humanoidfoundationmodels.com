@@ -3,6 +3,17 @@
   "topic": "humanoid foundation models: world models, VLAs, robot brains, embodied AI research, model releases, training data, simulation, compute",
   "items": [
     {
+      "iso": "2026-10-01",
+      "chip": "Training Data",
+      "title": "Robot-data sellers outnumber buyers nine to one",
+      "summary": "A month after opening its robot training-data marketplace, Kinetic Blocks says roughly nine in ten sign-ups were sellers, which it reads as data production outpacing how robot-policy teams buy data. Its answer is an informal \"interests\" feature where buyers can flag needs such as egocentric home footage, UMI gripper demos or stereo manipulation data before making a formal request.",
+      "source": "humanoid.guide",
+      "date": "1 Oct 2026",
+      "url": "https://humanoid.guide/kinetic-blocks-adds-interests-as-robot-data-demand-lags/?utm_source=microsite&utm_medium=referral&utm_campaign=fo2026&utm_content=briefing",
+      "art": "green",
+      "artTitle": "Supply outruns demand"
+    },
+    {
       "iso": "2026-09-30",
       "chip": "Training Data",
       "title": "Innodata opens a mocap lab to feed humanoid training",
