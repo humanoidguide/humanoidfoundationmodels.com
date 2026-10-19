@@ -3,6 +3,17 @@
   "topic": "humanoid foundation models: world models, VLAs, robot brains, embodied AI research, model releases, training data, simulation, compute",
   "items": [
     {
+      "iso": "2026-10-17",
+      "chip": "Simulation",
+      "title": "DexForce bets on simulation to cut humanoid training costs",
+      "summary": "Shenzhen's DexForce trains humanoids in simulated workplaces with varied arm angles, table colours and objects, then transfers the skills to real machines, which CEO Jia Kui told Reuters beats collecting human demonstrations by hand. The company, which Reuters says raised a 1 billion yuan Series B at a valuation above 10 billion yuan, argues the approach could speed a broader robot-capability breakthrough.",
+      "source": "humanoid.guide",
+      "date": "17 Oct 2026",
+      "url": "https://humanoid.guide/dexforce-targets-cheaper-humanoid-robot-training-in-simulation/?utm_source=microsite&utm_medium=referral&utm_campaign=fo2026&utm_content=briefing",
+      "art": "dark",
+      "artTitle": "Train in simulation"
+    },
+    {
       "iso": "2026-10-01",
       "chip": "Training Data",
       "title": "Robot-data sellers outnumber buyers nine to one",
