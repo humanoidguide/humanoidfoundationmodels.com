@@ -3,6 +3,17 @@
   "topic": "humanoid foundation models: world models, VLAs, robot brains, embodied AI research, model releases, training data, simulation, compute",
   "items": [
     {
+      "iso": "2026-10-08",
+      "chip": "Training",
+      "title": "Amazon open-sources a physical-AI toolchain built on NVIDIA GR00T",
+      "summary": "Amazon has launched Physical AI Toolchain on AWS, an open-source stack covering synthetic data, model training, simulation, edge deployment and continuous improvement, integrating NVIDIA Isaac Sim, Isaac GR00T and Cosmos. According to AWS, customers were spending too much engineering effort on infrastructure rather than innovation.",
+      "source": "Robotics 24/7",
+      "date": "8 Oct 2026",
+      "url": "https://www.robotics247.com/article/amazon-launches-physical-ai-toolchain-on-aws-to-help-companies-build-machines-that-think",
+      "art": "yellow",
+      "artTitle": "Data to deployment"
+    },
+    {
       "iso": "2026-10-17",
       "chip": "Simulation",
       "title": "DexForce bets on simulation to cut humanoid training costs",
