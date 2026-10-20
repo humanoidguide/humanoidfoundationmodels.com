@@ -3,6 +3,17 @@
   "topic": "humanoid foundation models: world models, VLAs, robot brains, embodied AI research, model releases, training data, simulation, compute",
   "items": [
     {
+      "iso": "2026-10-14",
+      "chip": "Foundation Models",
+      "title": "NEURA's Neuron AI fuses touch, sound and vision in one robot brain",
+      "summary": "NEURA Robotics has introduced Neuron AI, a multimodal foundation model that, according to NEURA, combines 3D vision, touch, audio, robot state, language and memory in a Perception-Language-Action architecture shared across five NEURA robot types. NEURA says it will demo the 4NE1 humanoid running an eleven-minute laundry sequence at NVIDIA GTC Berlin; it has not published benchmark results.",
+      "source": "NEURA Robotics",
+      "date": "14 Oct 2026",
+      "url": "https://via.tt.se/pressmeddelande/4595428/neura-robotics-introduces-neuron-ai-the-brain-of-the-physical-world?lang=en",
+      "art": "dark",
+      "artTitle": "Neuron AI"
+    },
+    {
       "iso": "2026-10-08",
       "chip": "Training",
       "title": "Amazon open-sources a physical-AI toolchain built on NVIDIA GR00T",
