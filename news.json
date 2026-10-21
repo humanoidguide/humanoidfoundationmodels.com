@@ -3,6 +3,17 @@
   "topic": "humanoid foundation models: world models, VLAs, robot brains, embodied AI research, model releases, training data, simulation, compute",
   "items": [
     {
+      "iso": "2026-10-21",
+      "chip": "Simulation",
+      "title": "NVIDIA opens Isaac Lab 3.0 and a human-video dataset at GTC Berlin",
+      "summary": "NVIDIA has made Isaac Lab 3.0 generally available, published the Human 1M dataset of human activity video with 3D hand tracking on Hugging Face, and added open workflows for refining GR00T 1.7 with reinforcement learning. Agile Robots' Agile ONE SN reference humanoid on GR00T and Jetson Thor is due in early 2027, according to NVIDIA.",
+      "source": "NVIDIA",
+      "date": "21 Oct 2026",
+      "url": "https://www.globenewswire.com/news-release/2026/10/21/3385337/0/en/nvidia-advances-isaac-platform-for-general-purpose-robotics-with-new-reference-humanoid-frameworks-simulation-pipelines-and-data.html",
+      "art": "green",
+      "artTitle": "Isaac Lab 3.0"
+    },
+    {
       "iso": "2026-10-17",
       "chip": "Simulation",
       "title": "DexForce bets on simulation to cut humanoid training costs",
