@@ -3,6 +3,17 @@
   "topic": "humanoid foundation models: world models, VLAs, robot brains, embodied AI research, model releases, training data, simulation, compute",
   "items": [
     {
+      "iso": "2026-10-22",
+      "chip": "Funding",
+      "title": "Dream Labs raises $90M and sells a robot brain by the hour",
+      "summary": "Ex-NVIDIA GR00T researchers at Dream Labs closed a $90M seed round led by B Capital and Kindred Ventures and opened the Dream API, which turns a camera feed and a text instruction into robot actions. According to Dream Labs, its video-trained Dream-1 model controls unseen two-armed robots zero-shot, though it handles only tabletop tasks like pick-and-place and laundry folding for now.",
+      "source": "The Robot Report",
+      "date": "22 Oct 2026",
+      "url": "https://www.therobotreport.com/dream-labs-raises-90m-and-launches-dream-api/",
+      "art": "yellow",
+      "artTitle": "Dream-1 robot API"
+    },
+    {
       "iso": "2026-10-21",
       "chip": "Simulation",
       "title": "NVIDIA opens Isaac Lab 3.0 and a human-video dataset at GTC Berlin",
