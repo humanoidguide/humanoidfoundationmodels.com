@@ -3,6 +3,17 @@
   "topic": "humanoid foundation models: world models, VLAs, robot brains, embodied AI research, model releases, training data, simulation, compute",
   "items": [
     {
+      "iso": "2026-10-21",
+      "chip": "Training",
+      "title": "Generative Bionics plans a humanoid data factory in Italy",
+      "summary": "Generative Bionics says it will build a network of Physical AI Data Factories, starting with a 5,000 m² hub in Italy due by Q4 2027, where GENE.01 robots perform industrial tasks and the data is extended in AMD Helios-powered digital-twin simulation. A second European site and a global one are planned but not yet placed, according to the company.",
+      "source": "Robotics 24/7",
+      "date": "21 Oct 2026",
+      "url": "https://www.robotics247.com/article/generative-bionics-to-build-europes-largest-physical-ai-data-factory-to-advance-european-humanoid-sovereignty-with-amd-ai-infrastructure",
+      "art": "dark",
+      "artTitle": "Europe data factory"
+    },
+    {
       "iso": "2026-10-22",
       "chip": "Funding",
       "title": "Dream Labs raises $90M and sells a robot brain by the hour",
