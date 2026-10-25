@@ -36,6 +36,17 @@
       "artTitle": "Isaac Lab 3.0"
     },
     {
+      "iso": "2026-10-20",
+      "chip": "Funding",
+      "title": "Eka bets on force, not language, with a $150M robot brain",
+      "summary": "Eka Robotics closed a $150M Series A at a $1.45B valuation, led by a16z and F-Prime, to scale its vision-force-action model, which learns manipulation through reinforcement learning in simulation rather than human demonstrations. According to Eka, the model picks about 1,500 objects an hour against roughly 600 for a human; those figures are company-reported.",
+      "source": "TechCrunch",
+      "date": "20 Oct 2026",
+      "url": "https://techcrunch.com/2026/10/20/eka-is-worth-1-45-billion-thanks-to-a-physical-ai-model-that-has-experts-raving/",
+      "art": "green",
+      "artTitle": "Vision-force-action"
+    },
+    {
       "iso": "2026-10-17",
       "chip": "Simulation",
       "title": "DexForce bets on simulation to cut humanoid training costs",
