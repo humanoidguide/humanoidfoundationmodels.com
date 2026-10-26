@@ -3,6 +3,17 @@
   "topic": "humanoid foundation models: world models, VLAs, robot brains, embodied AI research, model releases, training data, simulation, compute",
   "items": [
     {
+      "iso": "2026-10-25",
+      "chip": "Training",
+      "title": "Unitree wants AI to research, code and test its robots' skills",
+      "summary": "Unitree founder Wang Xingxing calls Unitree Rehearsal the company's most important project this year: AI searches papers, writes code and tests it in simulation before real-robot trials, Bloomberg reports. Wang expects robots to handle 80% of voice-assigned tasks by 2028 but concedes today's humanoids would likely fail at cleaning a room.",
+      "source": "humanoid.guide",
+      "date": "25 Oct 2026",
+      "url": "https://humanoid.guide/unitree-develops-rehearsal-to-improve-humanoid-robot-skills?utm_source=microsite&utm_medium=referral&utm_campaign=fo2026&utm_content=briefing",
+      "art": "green",
+      "artTitle": "Unitree Rehearsal"
+    },
+    {
       "iso": "2026-10-22",
       "chip": "Funding",
       "title": "Dream Labs raises $90M and sells a robot brain by the hour",
