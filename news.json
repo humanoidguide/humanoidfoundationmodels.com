@@ -3,6 +3,17 @@
   "topic": "humanoid foundation models: world models, VLAs, robot brains, embodied AI research, model releases, training data, simulation, compute",
   "items": [
     {
+      "iso": "2026-10-29",
+      "chip": "World Models",
+      "title": "AGIBOT previews GO-3, a robot brain built to predict consequences",
+      "summary": "AGIBOT debuted GO-3 Preview at its Innovation Day in Shanghai, a foundation model built around what it calls a World Reasoning Action Model, which according to AGIBOT helps robots anticipate the effects of their actions. The company reports top scores on the RoboDojo, RoboTwin and RoboColiseum benchmarks; these results are company-reported.",
+      "source": "The Robot Report",
+      "date": "29 Oct 2026",
+      "url": "https://www.therobotreport.com/agibot-introduces-worken-measure-robot-productivity-innovation-day-2026/",
+      "art": "dark",
+      "artTitle": "GO-3 Preview"
+    },
+    {
       "iso": "2026-10-25",
       "chip": "Training",
       "title": "Unitree wants AI to research, code and test its robots' skills",
