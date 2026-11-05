@@ -27,7 +27,7 @@
     {
       "iso": "2026-10-22",
       "chip": "Funding",
-      "title": "Dream Labs raises $90M and sells a robot brain by the hour",
+      "title": "Dream Labs raises $90M and opens an API that turns video into robot actions",
       "summary": "Ex-NVIDIA GR00T researchers at Dream Labs closed a $90M seed round led by B Capital and Kindred Ventures and opened the Dream API, which turns a camera feed and a text instruction into robot actions. According to Dream Labs, its video-trained Dream-1 model controls unseen two-armed robots zero-shot, though it handles only tabletop tasks like pick-and-place and laundry folding for now.",
       "source": "The Robot Report",
       "date": "22 Oct 2026",
