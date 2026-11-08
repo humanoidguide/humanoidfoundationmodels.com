@@ -3,6 +3,17 @@
   "topic": "humanoid foundation models: world models, VLAs, robot brains, embodied AI research, model releases, training data, simulation, compute",
   "items": [
     {
+      "iso": "2026-11-02",
+      "chip": "Funding",
+      "title": "Tutor Intelligence lands $75M to train a warehouse robot brain on live fleet data",
+      "summary": "a16z led the Series B, which takes Tutor to $117M raised and will go toward training its robot foundation models, according to the company. Its robots run on remote human guidance, and every deployment feeds new data back into the models; Tutor targets more than 1,000 robots under contract by the end of 2027.",
+      "source": "Robotics 24/7",
+      "date": "2 Nov 2026",
+      "url": "https://www.robotics247.com/article/tutor-intelligence-raises-75m-series-b-to-scale-frontier-robotics-model-training-manufacturing-and-deployment",
+      "art": "yellow",
+      "artTitle": "Fleet Data Flywheel"
+    },
+    {
       "iso": "2026-10-29",
       "chip": "World Models",
       "title": "AGIBOT previews GO-3, a robot brain built to predict consequences",
