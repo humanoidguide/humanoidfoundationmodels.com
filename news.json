@@ -4,6 +4,17 @@
   "items": [
     {
       "iso": "2026-11-09",
+      "chip": "World Models",
+      "title": "NVIDIA unveils GR00T 2, an open world action model",
+      "summary": "NVIDIA launched GR00T 2 at CoRL and says it hit 71% average success across 50 tasks with one demonstration each, rising to 95% with five. Isaac Lab 3.0 shipped alongside it, with Foxconn, Siemens and others testing the model, according to NVIDIA.",
+      "source": "The Robot Report",
+      "date": "9 Nov 2026",
+      "url": "https://www.therobotreport.com/nvidia-launches-gr00t-2-isaac-lab-3-0-corl/",
+      "art": "green",
+      "artTitle": "GR00T 2 arrives"
+    },
+    {
+      "iso": "2026-11-09",
       "chip": "Training",
       "title": "Boston Dynamics straps wheels on Atlas to stress-test its learned control",
       "summary": "Boston Dynamics fitted Atlas with scooter-style wheels and combined model-based control with whole-body reinforcement learning, trained in simulation and run on the real robot, according to The Robot Report. The company says the wheeled Atlas is a research testbed, not a product.",
