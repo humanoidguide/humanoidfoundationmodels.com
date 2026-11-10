@@ -3,6 +3,17 @@
   "topic": "humanoid foundation models: world models, VLAs, robot brains, embodied AI research, model releases, training data, simulation, compute",
   "items": [
     {
+      "iso": "2026-11-09",
+      "chip": "Training",
+      "title": "Boston Dynamics straps wheels on Atlas to stress-test its learned control",
+      "summary": "Boston Dynamics fitted Atlas with scooter-style wheels and combined model-based control with whole-body reinforcement learning, trained in simulation and run on the real robot, according to The Robot Report. The company says the wheeled Atlas is a research testbed, not a product.",
+      "source": "The Robot Report",
+      "date": "9 Nov 2026",
+      "url": "https://www.therobotreport.com/boston-dynamics-adds-wheels-to-atlas-humanoid-to-test-whole-body-control/",
+      "art": "dark",
+      "artTitle": "Atlas on wheels"
+    },
+    {
       "iso": "2026-11-02",
       "chip": "Funding",
       "title": "Tutor Intelligence lands $75M to train a warehouse robot brain on live fleet data",
