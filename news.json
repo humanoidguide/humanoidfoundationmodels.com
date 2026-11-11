@@ -4,6 +4,17 @@
   "items": [
     {
       "iso": "2026-11-09",
+      "chip": "Simulation",
+      "title": "Skild AI open-sources Steel to speed up robot sim training",
+      "summary": "Co-developed with NVIDIA for the open-source Newton engine, Steel is a GPU rigid-body solver that simulates mixed batches of robots and tasks at 9–13x PhysX's peak throughput on a single Blackwell GPU, according to Skild AI. The company stresses that the figures cover simulation throughput, not end-to-end training speed; code is on GitHub alongside an in-browser WebGPU demo.",
+      "source": "Skild AI",
+      "date": "9 Nov 2026",
+      "url": "https://skild.ai/blogs/steel",
+      "image": "https://assets.skild.ai/site/v1/steel/sp-c80969a875dad725e12d/jenga.jpg",
+      "credit": "Image © Skild AI"
+    },
+    {
+      "iso": "2026-11-09",
       "chip": "World Models",
       "title": "NVIDIA unveils GR00T 2, an open world action model",
       "summary": "NVIDIA launched GR00T 2 at CoRL and says it hit 71% average success across 50 tasks with one demonstration each, rising to 95% with five. Isaac Lab 3.0 shipped alongside it, with Foxconn, Siemens and others testing the model, according to NVIDIA.",
