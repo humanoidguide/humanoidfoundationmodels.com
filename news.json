@@ -3,6 +3,17 @@
   "topic": "humanoid foundation models: world models, VLAs, robot brains, embodied AI research, model releases, training data, simulation, compute",
   "items": [
     {
+      "iso": "2026-11-10",
+      "chip": "VLA",
+      "title": "Gemini Robotics 2.5 kits Mercedes parts at 96%",
+      "summary": "Google DeepMind's newest vision-language-action model drove Apptronik's Apollo 2 humanoids through bracket kitting on live Mercedes-Benz lines in Kecskemét and Sindelfingen, hitting a 96% success rate in the proof-of-concept, according to DeepMind. Across 200-plus lab tasks it is 30–100% more successful than its predecessor, the company says – but for now it is rolling out to DeepMind's robotics partners only.",
+      "source": "Google DeepMind",
+      "date": "10 Nov 2026",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-5-accelerates-real-world-physical-intelligence/",
+      "image": "https://lh3.googleusercontent.com/Ck7eWtIqJXRpaPHLsMP8ySYOYegBbVyXuiytZxzUZKz3H0iNiHXz0bIDTgY6FcyeZ5DbYrorliC8zIIN7T97hxX37x-1BXu3xK78bZ2XS9XKFSz-Gw=w1440-h810-n-nu",
+      "credit": "Image © Google DeepMind"
+    },
+    {
       "iso": "2026-11-09",
       "chip": "Simulation",
       "title": "Skild AI open-sources Steel to speed up robot sim training",
