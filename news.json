@@ -4,6 +4,17 @@
   "items": [
     {
       "iso": "2026-11-11",
+      "chip": "Training Data",
+      "title": "Memories.ai standardises first-person video for robot training",
+      "summary": "The San Francisco startup records egocentric footage on uniform modular camera rigs, then labels hand poses and action segments with its own models, turning the clips into training data for VLAs and world models. It also post-trains NVIDIA Cosmos for customers, according to Memories.ai; no customers or dataset size were named.",
+      "source": "The Robot Report",
+      "date": "11 Nov 2026",
+      "url": "https://www.therobotreport.com/memories-ai-builds-standardized-egocentric-video-pipeline/",
+      "art": "yellow",
+      "artTitle": "Eyes-on data"
+    },
+    {
+      "iso": "2026-11-11",
       "chip": "Research",
       "title": "Michigan's PRISM keeps simulated humanoids on their feet",
       "summary": "University of Michigan researchers presented PRISM at CoRL, a drop-in input module that learns how a robot's state, past actions and commands interact – and lifted fall-free walking trials from 51% to 92.5% versus a standard network, according to the team. A same-sized standard network managed only 52.3%, pointing to the architecture rather than scale – though every result so far is in simulation.",
