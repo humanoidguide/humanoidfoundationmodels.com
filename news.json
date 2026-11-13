@@ -5,6 +5,17 @@
     {
       "iso": "2026-11-11",
       "chip": "World Models",
+      "title": "Runway opens up Praxis-1, its 27B world action model",
+      "summary": "Runway has released Praxis-1 under Apache 2.0, a 27-billion-parameter mixture-of-experts model that predicts video and robot actions together, with weights plus fine-tuning code on GitHub and Hugging Face. Launch partners Noble Machines, Standard Bots and Ultra already run it on their hardware, and Runway calls it the top-ranked open world action model on NVIDIA's RoboLab leaderboard – where it sits fifth overall.",
+      "source": "The Robot Report",
+      "date": "11 Nov 2026",
+      "url": "https://www.therobotreport.com/runways-praxis-1-world-action-model-for-robotics-is-now-available/",
+      "art": "dark",
+      "artTitle": "Open world actions"
+    },
+    {
+      "iso": "2026-11-11",
+      "chip": "World Models",
       "title": "NTT's world model lets robots preview a move before making it",
       "summary": "NTT has bolted a physics adapter onto a video-generation model so it can render the likely outcome of each candidate action from a VLA or motion planner and pick the one that won't topple the load. In a small-robot shelf-loading test, success rose from 73.1% to 92.3%, according to NTT, with airport-baggage field trials planned alongside Mujin.",
       "source": "NTT",
