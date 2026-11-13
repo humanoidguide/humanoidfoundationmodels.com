@@ -4,6 +4,17 @@
   "items": [
     {
       "iso": "2026-11-11",
+      "chip": "World Models",
+      "title": "NTT's world model lets robots preview a move before making it",
+      "summary": "NTT has bolted a physics adapter onto a video-generation model so it can render the likely outcome of each candidate action from a VLA or motion planner and pick the one that won't topple the load. In a small-robot shelf-loading test, success rose from 73.1% to 92.3%, according to NTT, with airport-baggage field trials planned alongside Mujin.",
+      "source": "NTT",
+      "date": "11 Nov 2026",
+      "url": "https://group.ntt/en/newsrelease/2026/11/11/261111b.html",
+      "image": "https://group.ntt/en/newsrelease/2026/11/11/img/261111bd.jpg",
+      "credit": "Image © NTT"
+    },
+    {
+      "iso": "2026-11-11",
       "chip": "Training Data",
       "title": "Memories.ai standardises first-person video for robot training",
       "summary": "The San Francisco startup records egocentric footage on uniform modular camera rigs, then labels hand poses and action segments with its own models, turning the clips into training data for VLAs and world models. It also post-trains NVIDIA Cosmos for customers, according to Memories.ai; no customers or dataset size were named.",
