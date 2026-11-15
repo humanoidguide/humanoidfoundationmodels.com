@@ -3,6 +3,28 @@
   "topic": "humanoid foundation models: world models, VLAs, robot brains, embodied AI research, model releases, training data, simulation, compute",
   "items": [
     {
+      "iso": "2026-11-14",
+      "chip": "Research",
+      "title": "Apple's HALO walks a Unitree G1 through unmapped rooms",
+      "summary": "Apple researchers trained HALO, a layered control stack, on roughly 300 hours of simulated human motion across about 1,000 generated rooms, then ran it offline on a Mac mini strapped to a Unitree G1, according to reports cited by humanoid.guide. The robot reportedly succeeded in 91% of 360 single-task trials in six unmapped environments, but only 70% when tasks were chained – and this is a research paper, not an Apple product or Unitree partnership.",
+      "source": "humanoid.guide",
+      "date": "14 Nov 2026",
+      "url": "https://humanoid.guide/apple-halo-reaches-reported-91-success-on-unitree-g1-tests/?utm_source=microsite&utm_medium=referral&utm_campaign=fo2026&utm_content=briefing",
+      "image": "https://humanoid.guide/wp-content/uploads/2026/11/image-18.jpg",
+      "credit": "Image © Humanoid Guide"
+    },
+    {
+      "iso": "2026-11-14",
+      "chip": "VLA",
+      "title": "Japan's AIRoA-0 learns from 16,000 hours of human handiwork",
+      "summary": "AIRoA, Japan's METI-backed AI Robot Association, has released AIRoA-0, a vision-language-action model trained on more than 16,000 hours of everyday tasks recorded with YUBI, a handheld gripper developed with Toyota's involvement, rather than on robot teleoperation, according to humanoid.guide. Model and code are shared openly for research, though humanoid.guide rates it a developing 3 out of 10 on its Brain Score.",
+      "source": "humanoid.guide",
+      "date": "14 Nov 2026",
+      "url": "https://humanoid.guide/welcome-airoa-0/?utm_source=microsite&utm_medium=referral&utm_campaign=fo2026&utm_content=briefing",
+      "art": "green",
+      "artTitle": "Human-hand data"
+    },
+    {
       "iso": "2026-11-13",
       "chip": "Touch Models",
       "title": "Robbyant's LingBot-Touch gives robot brains a sense of touch",
