@@ -3,6 +3,17 @@
   "topic": "humanoid foundation models: world models, VLAs, robot brains, embodied AI research, model releases, training data, simulation, compute",
   "items": [
     {
+      "iso": "2026-11-16",
+      "chip": "Strategy",
+      "title": "OpenAI folds its robotics team into core research",
+      "summary": "OpenAI has dissolved its dedicated robotics team and split the staff between its main research and applied organisations, saying general-purpose frontier models such as GPT-6 Astra proved they could be applied directly to robotics, according to Fortune as reported by humanoid.guide. The robotics work itself continues: Fortune reports OpenAI is still developing its own humanoid, with a first public demo targeted for 2027.",
+      "source": "humanoid.guide",
+      "date": "16 Nov 2026",
+      "url": "https://humanoid.guide/openai-disbands-robotics-team-folds-work-into-core-research/?utm_source=microsite&utm_medium=referral&utm_campaign=fo2026&utm_content=briefing",
+      "art": "dark",
+      "artTitle": "One brain, many bodies"
+    },
+    {
       "iso": "2026-11-14",
       "chip": "Research",
       "title": "Apple's HALO walks a Unitree G1 through unmapped rooms",
