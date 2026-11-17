@@ -4,6 +4,17 @@
   "items": [
     {
       "iso": "2026-11-16",
+      "chip": "World Models",
+      "title": "Huawei Cloud launches an Ascend-native world model",
+      "summary": "Huawei Cloud unveiled CloudRobo-WM1.2 at a 16 November livestream, billing it as the first world model built natively for its own Ascend AI chips, according to the company. The launch programme included an official open-source release and an ecosystem push for its CloudRobo embodied-AI platform – Huawei's event page names no licence, repository or benchmarks.",
+      "source": "Huawei Cloud",
+      "date": "16 Nov 2026",
+      "url": "https://www.huaweicloud.com/about/live/261116.html",
+      "art": "green",
+      "artTitle": "Ascend-native world model"
+    },
+    {
+      "iso": "2026-11-16",
       "chip": "Strategy",
       "title": "OpenAI folds its robotics team into core research",
       "summary": "OpenAI has dissolved its dedicated robotics team and split the staff between its main research and applied organisations, saying general-purpose frontier models such as GPT-6 Astra proved they could be applied directly to robotics, according to Fortune as reported by humanoid.guide. The robotics work itself continues: Fortune reports OpenAI is still developing its own humanoid, with a first public demo targeted for 2027.",
