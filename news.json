@@ -14,6 +14,17 @@
       "credit": "Image © Humanoid Guide"
     },
     {
+      "iso": "2026-11-23",
+      "chip": "Funding",
+      "title": "Dreamer creator launches Embo with a $110M seed",
+      "summary": "Embo, led by Dreamer creator Danijar Hafner and VideoGPT author Wilson Yan, came out of stealth with a $110M seed round led by Andreessen Horowitz, with Khosla Ventures, DST Global and NVIDIA joining. The startup plans one world model pretrained from scratch on internet-scale video, then finetuned on data from its own humanoid fleet and refined with reinforcement learning in imagined scenarios; it has not shared a product timeline.",
+      "source": "Embo",
+      "date": "23 Nov 2026",
+      "url": "https://embo.com/introducing-embo",
+      "image": "https://embo.com/images/posts/introducing-embo/banner.jpg",
+      "credit": "Image © Embo"
+    },
+    {
       "iso": "2026-11-18",
       "chip": "Training Data",
       "title": "Humyn Labs banks $47M to film humans at work for robot brains",
