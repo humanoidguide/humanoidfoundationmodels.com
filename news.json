@@ -3,6 +3,17 @@
   "topic": "humanoid foundation models: world models, VLAs, robot brains, embodied AI research, model releases, training data, simulation, compute",
   "items": [
     {
+      "iso": "2026-11-26",
+      "chip": "VLA",
+      "title": "Zoomlion shares one robot brain between diggers and humanoids",
+      "summary": "At bauma CHINA, Zoomlion showed an excavator driven by a vision-language-action model that judges an object's position, orientation and size to place it with centimetre-level accuracy, which the company calls the industry's first embodied-AI excavation robot. Its Zbrain system moves skills both ways between construction machines and its Z01 and Z03 humanoids, drawing on data from more than 1.8 million connected machines, according to Zoomlion.",
+      "source": "Zoomlion (PR Newswire)",
+      "date": "26 Nov 2026",
+      "url": "https://www.prnewswire.com/news-releases/zoomlion-launches-industrys-first-ai-excavation-robot-powered-by-embodied-intelligence-at-bauma-china-2026-302950993.html",
+      "image": "https://mmx.prnewswire.com/media/MS2043264/20261125215624EST_image_1.jpg?id=OA3101558&p=medium",
+      "credit": "Image © Zoomlion"
+    },
+    {
       "iso": "2026-11-25",
       "chip": "VLA",
       "title": "XPeng splits IRON's brain into three speeds",
