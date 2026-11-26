@@ -3,6 +3,17 @@
   "topic": "humanoid foundation models: world models, VLAs, robot brains, embodied AI research, model releases, training data, simulation, compute",
   "items": [
     {
+      "iso": "2026-11-25",
+      "chip": "VLA",
+      "title": "XPeng splits IRON's brain into three speeds",
+      "summary": "At its AI Day, XPeng unveiled the Turing Physical AI Architecture, also called VLA 3.0, which it will run in both cars and its IRON humanoid. It has three layers: a slow vision-language planner, a fast VLA 2.0 layer that turns perception into action, and an ultra-fast layer that feeds body control and hardware state back into the loop. XPeng says agent-driven closed-loop training now runs 10 to 12 times faster, and IRON begins store-assistant training in Q1 2027.",
+      "source": "XPENG",
+      "date": "25 Nov 2026",
+      "url": "https://www.xpeng.com/news/01a212b0d830a1e838d68a02a2110174",
+      "image": "https://s-cdn.xpeng.com/commoncms/prod/2026-11-25/b2d739b7343d4131b5840eda59f5dc48.jpg",
+      "credit": "Image © XPENG"
+    },
+    {
       "iso": "2026-11-24",
       "chip": "Training Data",
       "title": "Figure patents a backpack rig to record human arm moves",
