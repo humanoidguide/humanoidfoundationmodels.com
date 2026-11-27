@@ -3,6 +3,17 @@
   "topic": "humanoid foundation models: world models, VLAs, robot brains, embodied AI research, model releases, training data, simulation, compute",
   "items": [
     {
+      "iso": "2026-11-23",
+      "chip": "VLA",
+      "title": "X Square trains WALL-OSS-1.0 on vision, language and action at once",
+      "summary": "X Square Robot's new VLA starts from a Qwen3.5 base and learns robot actions together with vision and language from the start, rather than bolting actions on afterwards. According to X Square, it succeeded on 55.1% of 312 unseen real-robot tasks with no task-specific fine-tuning. Lite (4B) and Nano (2B) versions are included, and the company says code and weights will be open-sourced soon.",
+      "source": "X Square Robot",
+      "date": "23 Nov 2026",
+      "url": "https://x2robot.com/blogs/wall-oss-1-en/",
+      "art": "dark",
+      "artTitle": "Native VLA Pretraining"
+    },
+    {
       "iso": "2026-11-26",
       "chip": "VLA",
       "title": "Zoomlion shares one robot brain between diggers and humanoids",
